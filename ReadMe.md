@@ -1,2 +1,9 @@
-# Test
-used to exercise my skills of using github and git to do my job
+# pytorch Network structure analysis
+I will try to build a python project that converts pytorch to caffe
+
+# requirements
+python：3.7.4
+pytorch：1.5.0
+numpy：1.18.1
+
+
